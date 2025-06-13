@@ -10,6 +10,7 @@ This repository serves as a practical example for learning and demonstrating Git
 
 - Basic repository structure
 - Example files demonstrating different Git operations
+- `git-demo.sh` - A script showing common Git commands
 - MIT License for open source compliance
 
 ## Getting Started
@@ -25,6 +26,11 @@ This repository serves as a practical example for learning and demonstrating Git
    ```
 
 3. Explore the files and Git history to understand the demonstration.
+
+4. Run the demo script to see common Git commands:
+   ```bash
+   ./git-demo.sh
+   ```
 
 ## License
 
