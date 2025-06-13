@@ -1,0 +1,12 @@
+Git Demo Example File
+====================
+
+This file demonstrates basic Git operations:
+
+1. File creation and initial commit
+2. File modification and staging
+3. Commit history tracking
+4. Branch operations
+
+Version: 1.0
+Last updated: Initial creation
