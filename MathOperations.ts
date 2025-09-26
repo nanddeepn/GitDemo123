@@ -1,12 +1,22 @@
 export class MathOperations {
-    // Method to add two numbers
+    /**
+     * Adds two numbers together.
+     * @param a - The first number to add
+     * @param b - The second number to add
+     * @returns The sum of a and b
+     */
     add(a: number, b: number): number {
-        return a - b;
+        return a + b;
     }
 
-    // Method to subtract two numbers
+    /**
+     * Subtracts the second number from the first number.
+     * @param a - The number to subtract from (minuend)
+     * @param b - The number to subtract (subtrahend)
+     * @returns The difference of a minus b
+     */
     subtract(a: number, b: number): number {
-        return a + b;
+        return a - b;
     }
 
     // Method to multiply two numbers
