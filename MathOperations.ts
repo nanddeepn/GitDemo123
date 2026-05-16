@@ -1,12 +1,12 @@
 export class MathOperations {
     // Method to add two numbers
     add(a: number, b: number): number {
-        return a - b;
+        return a + b;
     }
 
     // Method to subtract two numbers
     subtract(a: number, b: number): number {
-        return a + b;
+        return a - b;
     }
 
     // Method to multiply two numbers
